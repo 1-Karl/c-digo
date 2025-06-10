@@ -2,18 +2,18 @@
   "keys": {
     "A9F3B7K2QX": {
       "data": "2025-06-13",
-      "whid": "E4C02418-774D-11F1-395B-8DFB00ECE305",
+      "whid": "WHID-0001",
       "macro_type": ["fishing", "hotkey"]
     },
     "X5L8R2D1ZC": {
       "data": "2025-06-13",
-      "whid": "E4C02418-774D-11F1-395B-8DFB00ECE305",
-      "macro_type": ["fishing"]
+      "whid": "WHID-0002",
+      "macro_type": ["fishing", "hotkey"]
     },
     "N7T4V9M6WP": {
       "data": "2025-06-13",
-      "whid": "E4C02418-774D-11F1-395B-8DFB00ECE305",
-      "macro_type": ["hotkey"]
+      "whid": "WHID-0003",
+      "macro_type": ["fishing", "hotkey"]
     },
     "R6Z9Q2C4MB": {
       "data": "2025-07-10",
