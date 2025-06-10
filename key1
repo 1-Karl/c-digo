@@ -1,0 +1,154 @@
+{
+  "keys": {
+    "A9F3B7K2QX": {
+      "data": "2025-06-13",
+      "whid": "E4C02418-774D-11F1-395B-8DFB00ECE305",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "X5L8R2D1ZC": {
+      "data": "2025-06-13",
+      "whid": "E4C02418-774D-11F1-395B-8DFB00ECE305",
+      "macro_type": ["fishing"]
+    },
+    "N7T4V9M6WP": {
+      "data": "2025-06-13",
+      "whid": "E4C02418-774D-11F1-395B-8DFB00ECE305",
+      "macro_type": ["hotkey"]
+    },
+    "R6Z9Q2C4MB": {
+      "data": "2025-07-10",
+      "whid": "WHID-0004",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "P8W7L5A3EX": {
+      "data": "2025-07-10",
+      "whid": "WHID-0005",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "EV2D9M6R1KT": {
+      "data": "2025-07-10",
+      "whid": "WHID-0006",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "T4C3X7Q9BL": {
+      "data": "2025-07-10",
+      "whid": "WHID-0007",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "J6M2F8Z1RY": {
+      "data": "2025-07-10",
+      "whid": "WHID-0008",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KU1K7B9P3HD": {
+      "data": "2025-07-10",
+      "whid": "WHID-0009",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "G5R8L2Z7VW": {
+      "data": "2025-07-10",
+      "whid": "WHID-0010",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "Q3T1N9D6KA": {
+      "data": "2025-07-10",
+      "whid": "WHID-0011",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "B9M6C4P7XE": {
+      "data": "2025-07-10",
+      "whid": "WHID-0012",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "D7W1R3K8ZL": {
+      "data": "2025-07-10",
+      "whid": "WHID-0013",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "H2P5F9V3MJ": {
+      "data": "2025-07-10",
+      "whid": "WHID-0014",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "F6Y8X1C7LB": {
+      "data": "2025-07-10",
+      "whid": "WHID-0015",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "C9Z3Q6D2WP": {
+      "data": "2025-07-10",
+      "whid": "WHID-0016",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "M4K7J1T9XR": {
+      "data": "2025-07-10",
+      "whid": "WHID-0017",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "S2P9L5W8KD": {
+      "data": "2025-07-10",
+      "whid": "WHID-0018",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "L8V3B6R1CZ": {
+      "data": "2025-07-10",
+      "whid": "WHID-0019",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "E1K5Z9M7QD": {
+      "data": "2025-07-10",
+      "whid": "WHID-0020",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "K9C4W2J6TX": {
+      "data": "2025-07-10",
+      "whid": "WHID-0021",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "O3P7L8V1RM": {
+      "data": "2025-07-10",
+      "whid": "WHID-0022",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "Z6D1F5B9KX": {
+      "data": "2025-07-10",
+      "whid": "WHID-0023",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "W2T9J3M8LC": {
+      "data": "2025-07-10",
+      "whid": "WHID-0024",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "N5R6C1Z4KV": {
+      "data": "2025-07-10",
+      "whid": "WHID-0025",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "X7B8Q3D9PL": {
+      "data": "2025-07-10",
+      "whid": "WHID-0026",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "V4M1T6K7RJ": {
+      "data": "2025-07-10",
+      "whid": "WHID-0027",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "Y9L2F8W5NC": {
+      "data": "2025-07-10",
+      "whid": "WHID-0028",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "J3C5P7Z1XD": {
+      "data": "2025-07-10",
+      "whid": "WHID-0029",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "Y3CRP7ZZXD": {
+      "data": "2025-07-10",
+      "whid": "WHID-0030",
+      "macro_type": ["fishing", "hotkey"]
+    }
+  }
+}
