@@ -1,0 +1,154 @@
+{
+  "keys": {
+    "KEY0001": {
+      "data": "2025-06-10",
+      "whid": "E4C02418-774D-11F1-395B-8DFB00ECE305",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0002": {
+      "data": "2025-07-10",
+      "whid": "WHID-0002",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0003": {
+      "data": "2025-07-10",
+      "whid": "WHID-0003",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0004": {
+      "data": "2025-07-10",
+      "whid": "WHID-0004",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0005": {
+      "data": "2025-07-10",
+      "whid": "WHID-0005",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0006": {
+      "data": "2025-07-10",
+      "whid": "WHID-0006",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0007": {
+      "data": "2025-07-10",
+      "whid": "WHID-0007",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0008": {
+      "data": "2025-07-10",
+      "whid": "WHID-0008",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0009": {
+      "data": "2025-07-10",
+      "whid": "WHID-0009",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0010": {
+      "data": "2025-07-10",
+      "whid": "WHID-0010",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0011": {
+      "data": "2025-07-10",
+      "whid": "WHID-0011",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0012": {
+      "data": "2025-07-10",
+      "whid": "WHID-0012",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0013": {
+      "data": "2025-07-10",
+      "whid": "WHID-0013",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0014": {
+      "data": "2025-07-10",
+      "whid": "WHID-0014",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0015": {
+      "data": "2025-07-10",
+      "whid": "WHID-0015",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0016": {
+      "data": "2025-07-10",
+      "whid": "WHID-0016",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0017": {
+      "data": "2025-07-10",
+      "whid": "WHID-0017",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0018": {
+      "data": "2025-07-10",
+      "whid": "WHID-0018",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0019": {
+      "data": "2025-07-10",
+      "whid": "WHID-0019",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0020": {
+      "data": "2025-07-10",
+      "whid": "WHID-0020",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0021": {
+      "data": "2025-07-10",
+      "whid": "WHID-0021",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0022": {
+      "data": "2025-07-10",
+      "whid": "WHID-0022",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0023": {
+      "data": "2025-07-10",
+      "whid": "WHID-0023",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0024": {
+      "data": "2025-07-10",
+      "whid": "WHID-0024",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0025": {
+      "data": "2025-07-10",
+      "whid": "WHID-0025",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0026": {
+      "data": "2025-07-10",
+      "whid": "WHID-0026",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0027": {
+      "data": "2025-07-10",
+      "whid": "WHID-0027",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0028": {
+      "data": "2025-07-10",
+      "whid": "WHID-0028",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0029": {
+      "data": "2025-07-10",
+      "whid": "WHID-0029",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "KEY0030": {
+      "data": "2025-07-10",
+      "whid": "WHID-0030",
+      "macro_type": ["fishing", "hotkey"]
+    }
+  }
+}
