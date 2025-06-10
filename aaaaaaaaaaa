@@ -1,0 +1,22 @@
+{
+  "chave_pesca_somente": {
+    "expiracao": "31/12/2025",
+    "whid": "SEU_WHID_AQUI",
+    "features": ["fishing_macro"]
+  },
+  "chave_hotkey_somente": {
+    "expiracao": "31/12/2025",
+    "whid": "SEU_WHID_AQUI",
+    "features": ["hotkey_commander"]
+  },
+  "chave_completa": {
+    "expiracao": "31/12/2025",
+    "whid": "SEU_WHID_AQUI",
+    "features": ["fishing_macro", "hotkey_commander"]
+  },
+  "chave_expirada": {
+    "expiracao": "01/01/2020",
+    "whid": "SEU_WHID_AQUI",
+    "features": ["fishing_macro", "hotkey_commander"]
+  }
+}
