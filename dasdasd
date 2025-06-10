@@ -1,0 +1,19 @@
+{
+  "keys": {
+    "A9F3B7K2QX": {
+      "data": "2025-06-15",
+      "whid": "E4C02418-774D-11F1-395B-8DFB00ECE305",
+      "macro_type": ["fishing", "hotkey"]
+    },
+    "OUTRAKEY": {
+      "data": "2024-12-31",
+      "whid": "SEU-WHID-AQUI",
+      "macro_type": ["hotkey"]
+    },
+    "AMBASASFUNCOES": {
+      "data": "2025-01-01",
+      "whid": "SEU-WHID-AQUI-2",
+      "macro_type": ["fishing", "hotkey"]
+    }
+  }
+}
