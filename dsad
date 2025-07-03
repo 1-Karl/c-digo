@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e43ewq",
+    "whids": ["E4C02418-774D-11F1-395B-8DFB00ECE305", "WHID_DA_MAQUINA_2"],
+    "data_expiracao": "2025-09-13",
+    "macro_types": ["fishing", "hotkey", "recoil"]
+  },
+  {
+    "key": "sua_chave_aqui_2",
+    "whids": ["WHID_DA_MAQUINA_3"],
+    "data_expiracao": "YYYY-MM-DD",
+    "macro_types": ["fishing"]
+  }
+]
