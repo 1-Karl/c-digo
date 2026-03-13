@@ -1,5 +1,5 @@
 {
   "keys": {
-    "KARL":  { "expires": "2026-04-10", "whid": "9F1955BD-EAB1-F1E7-C673-D45D648F8943", "macros": ["fishing", "hotkey"] }
+    "KARL": { "expires": "2026-04-10", "whid": "9F1955BD-EAB1-F1E7-C673-D45D648F8943", "macros": ["fishing", "hotkey"], "max_hotkeys": 3 }
   }
 }
