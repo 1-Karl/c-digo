@@ -1,6 +1,37 @@
 {
   "keys": {
     "KARL": { "expires": "2026-04-10", "whid": "9F1955BD-EAB1-F1E7-C673-D45D648F8943", "macros": ["fishing", "hotkey"], "max_hotkeys": 3 },
-    "Arnoldo": { "expires": "2026-04-10", "whid": "5a3ee81f-a26b-4ab8-9768-da2d28d4f512", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 }
+    "Arnoldo": { "expires": "2026-04-10", "whid": "5a3ee81f-a26b-4ab8-9768-da2d28d4f512", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "EXEMPLO_SO_PESCA": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing"], "max_hotkeys": 0 },
+    "NOME_03": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_04": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_05": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_06": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_07": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_08": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_09": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_10": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_11": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_12": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_13": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_14": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_15": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_16": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_17": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_18": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_19": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_20": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_21": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_22": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_23": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_24": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_25": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_26": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_27": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_28": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_29": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_30": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_31": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "NOME_32": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 }
   }
 }
