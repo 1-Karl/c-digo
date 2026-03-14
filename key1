@@ -1,6 +1,6 @@
 {
   "keys": {
-    "KARL": { "expires": "2026-04-10", "whid": "9F1955BD-EAB1-F1E7-C673-D45D648F8943", "macros": ["fishing", "hotkey"], "max_hotkeys": 3 }
+    "KARL": { "expires": "2026-04-10", "whid": "9F1955BD-EAB1-F1E7-C673-D45D648F8943", "macros": ["fishing", "hotkey"], "max_hotkeys": 3 },
     "Arnoldo": { "expires": "2026-04-10", "whid": "03000200-0400-0500-0006-000700080009", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 }
   }
 }
