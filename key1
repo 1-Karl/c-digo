@@ -4,7 +4,7 @@
     "Arnoldo": { "expires": "2026-04-10", "whid": "5a3ee81f-a26b-4ab8-9768-da2d28d4f512", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
     "EXEMPLO_SO_PESCA": { "expires": "2026-04-10", "whid": "c4c91256-43f8-47cf-b12f-c782b619584a", "macros": ["fishing"], "max_hotkeys": 0 },
     "CHICOBICO": { "expires": "2026-04-10", "whid": "E3A29D61-BF8C-E4B9-0625-244BFEB7D946", "macros": ["hotkey"], "max_hotkeys": 10 },
-    "NOME_04": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
+    "Creito": { "expires": "2026-04-10", "whid": "032E02B4-0499-05F2-5E06-060700080009", "macros": ["fishing"], "max_hotkeys": 10 },
     "NOME_05": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
     "NOME_06": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
     "NOME_07": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
