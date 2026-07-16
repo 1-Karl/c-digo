@@ -2,7 +2,7 @@
   "keys": {
     "KARL": { "expires": "2026-12-11", "whid": "9F1955BD-EAB1-F1E7-C673-D45D648F8943", "macros": ["hotkey", "vault"], "max_hotkeys": 10 },
     "GUI": { "expires": "2026-04-10", "whid": "E3A29D61-BF8C-E4B9-0625-244BFEB7D946", "macros": ["hotkey"], "max_hotkeys": 10 },
-    "Tio creito": { "expires": "2026-04-10", "whid": "032E02B4-0499-05F2-5E06-060700080009", "macros": ["fishing", "hotkey", "vault"], "max_hotkeys": 10 },
+    "Tio creito": { "expires": "2026-08-16", "whid": "032E02B4-0499-05F2-5E06-060700080009", "macros": ["fishing", "hotkey", "vault"], "max_hotkeys": 10 },
     "NOME_08": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
     "NOME_09": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
     "NOME_10": { "expires": "2026-04-10", "whid": "WHID_AQUI", "macros": ["fishing", "hotkey"], "max_hotkeys": 10 },
